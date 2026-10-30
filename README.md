@@ -6,9 +6,6 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render)](https://leetcodebot-gumy.onrender.com/)
 [![Devpost](https://img.shields.io/badge/Devpost-Project-blue?style=for-the-badge&logo=devpost)](https://devpost.com/software/leetcode-robo?ref_content=my-projects-tab&ref_feature=my_projects)
-[![Python Flask](https://img.shields.io/badge/Backend-Python%20Flask-orange?style=for-the-badge&logo=flask)](./LeetBot-BACKEND)
-[![React.js](https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react)](./LeetBot-FRONTEND)
-[![NES.css](https://img.shields.io/badge/Style-NES.css-yellow?style=for-the-badge)](https://nostalgic-css.github.io/NES.css/)
 
 </div>
 
