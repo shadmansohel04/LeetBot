@@ -1,10 +1,10 @@
-# ?? LeetBot Frontend
+# 🤖 LeetBot Frontend
 
-The retro 8-bit frontend for **LeetBot**�the 1st place winner at Ignitian Hacks 2024. Built with **React.js**, **Vite**, and styled with **NES.CSS**, it provides an arcade-style UI for multiplayer PvP LeetCode stat battles.
+The retro 8-bit frontend for **LeetBot**, the 1st place winner at Ignitian Hacks 2024. Built with **React.js**, **Vite**, and styled with **NES.CSS**, it provides an arcade-style UI for multiplayer PvP LeetCode stat battles.
 
 ---
 
-## ??? Tech Stack
+## 🛠️ Tech Stack
 
 - **Framework:** React.js with Vite
 - **Styling:** NES.CSS (retro 8-bit CSS framework), custom pixel art CSS
@@ -12,7 +12,7 @@ The retro 8-bit frontend for **LeetBot**�the 1st place winner at Ignitian Hacks 
 
 ---
 
-## ?? Installation & Running
+## 🚀 Installation & Running
 
 1. Navigate to the frontend directory:
    ```bash
@@ -31,26 +31,26 @@ The retro 8-bit frontend for **LeetBot**�the 1st place winner at Ignitian Hacks 
 
 ---
 
-## ?? Project Structure
+## 📁 Project Structure
 
 ```text
 LeetBot-FRONTEND/
-+-- public/                 # Pixel art sprites, GIFs, and background images
-+-- src/
-�   +-- assets/             # Game data and assets
-�   +-- pages/              # Views (homepage, GamePage, dash, boostPage, starter)
-�   +-- styles/             # Retro arcade stylesheets (gamePage.css, homePage.css, pixelated.css, etc.)
-�   +-- App.jsx             # Root component and router
-�   +-- App.css
-�   +-- main.jsx            # Entry point
-�   +-- index.css
-+-- package.json
-+-- vite.config.js
+├── public/                 # Pixel art sprites, GIFs, and background images
+├── src/
+│   ├── assets/             # Game data and assets
+│   ├── pages/              # Views (homepage, GamePage, dash, boostPage, starter)
+│   ├── styles/             # Retro arcade stylesheets (gamePage.css, homePage.css, pixelated.css, etc.)
+│   ├── App.jsx             # Root component and router
+│   ├── App.css
+│   ├── main.jsx            # Entry point
+│   └── index.css
+├── package.json
+└── vite.config.js
 ```
 
 ---
 
-## ?? Links
+## 🔗 Links
 
 - **Live App:** [https://leetcodebot-gumy.onrender.com/](https://leetcodebot-gumy.onrender.com/)
 - **Devpost:** [https://devpost.com/software/leetcode-robo](https://devpost.com/software/leetcode-robo?ref_content=my-projects-tab&ref_feature=my_projects)
